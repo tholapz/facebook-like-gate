@@ -8,3 +8,5 @@ create ssl certificate using openssl and put it in sslcert/ [instruction here](h
 
 Run: `npm start`, you may need a root permission since it will fire up a HTTPS server at port 443
 
+reference:
+[signed_request verifier lib](http://stackoverflow.com/questions/11977989/get-signed-request-in-node-js-express-facebook-canvas-app)
